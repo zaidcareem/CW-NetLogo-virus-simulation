@@ -20,3 +20,5 @@ There is a slider named “%infectiousness” which denotes the infectiousness o
 Lockdown and Social Distancing functionality can be implemented by setting the value of the slider named “travellingDistance” to 0. This means people remain stationary, not travelling. Thus, reducing the chance of infecting others.
 
 While simulation is in lockdown state, if multiple people happen to be in the same patch, analogize it as a family living in the same house, they will be inside the house at the time of lockdown also.
+
+Enjoy.
